@@ -40,7 +40,7 @@ Why XGBoost?
 
 * Results
 
-![XGBoost Regression Score](scoreshospitalregression.jpg)
+![XGBoost Regression Score](XGBoostRegressionScores.jpg)
 
 * Observation:
 Feature engineering (binning + target encoding) did not drastically improve the score.
