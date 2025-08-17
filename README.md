@@ -39,6 +39,7 @@ Why XGBoost?
 * Works efficiently with tabular data
 
 * Results
+
 ![XGBoost Regression Score](scoreshospitalregression.jpg)
 
 * Observation:
