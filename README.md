@@ -39,10 +39,7 @@ Why XGBoost?
 * Works efficiently with tabular data
 
 * Results
-Model	              R² Score	RMSE
-XGBoost (baseline)	~0.84	~4300
-XGBoost + L1 regularization	~0.87	~4284
-XGBoost + Binning + Encoding	~0.86	~4295
+![XGBoost Regression Score](scoreshospitalregression.jpg)
 
 * Observation:
 Feature engineering (binning + target encoding) did not drastically improve the score.
